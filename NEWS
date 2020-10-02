@@ -19,9 +19,9 @@ would cause an error in AUX TeX buffers.)
 
 * Changes in htmlize 1.44
 
-** Faces specified in the `face' property are now prioritized the same
+**( Faces specified in the `face' property are now prioritized the same
 way that Emacs redisplay does it: faces that appear earlier have
-precedence over those that appear later.
+precedence over those that appear later.)
 
 
 * Changes in htmlize 1.41
